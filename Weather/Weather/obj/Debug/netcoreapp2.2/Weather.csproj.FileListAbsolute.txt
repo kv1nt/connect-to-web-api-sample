@@ -1,0 +1,11 @@
+C:\Users\kv111\source\repos\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.deps.json
+C:\Users\kv111\source\repos\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.runtimeconfig.json
+C:\Users\kv111\source\repos\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.runtimeconfig.dev.json
+C:\Users\kv111\source\repos\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.dll
+C:\Users\kv111\source\repos\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.pdb
+C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.csprojAssemblyReference.cache
+C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.csproj.CoreCompileInputs.cache
+C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.AssemblyInfoInputs.cache
+C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.AssemblyInfo.cs
+C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.dll
+C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.pdb
