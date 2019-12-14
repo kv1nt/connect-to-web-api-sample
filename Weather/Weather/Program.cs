@@ -18,7 +18,6 @@ namespace Weather
         static void  Main(string[] args)
         {
           var weather =  WeatherService.GetWeather("Paris").GetAwaiter().GetResult();
-            Console.WriteLine("Hello World!");
         }
     }
 
