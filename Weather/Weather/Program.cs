@@ -17,7 +17,33 @@ namespace Weather
     {
         static void  Main(string[] args)
         {
-          var weather =  WeatherService.GetWeather("Paris").GetAwaiter().GetResult();
+            while (true)
+            {
+                Console.WriteLine(new string('-', 40));
+                Console.Write("Please write the City name:");
+                var cityName = Console.ReadLine();
+                var weather = WeatherService.GetWeather(cityName).GetAwaiter().GetResult();
+
+                if (weather.City != null)
+                {
+                    Console.WriteLine($"ID: {weather.Id}\n" +
+                                      $"City: {weather.City}\n" +
+                                      $"Country: {weather.Country.CountryAttribure}\n" +
+                                      $"Temperature: {weather.MainInfo.Temperature} C*\n" +
+                                      $"Pressure: {weather.MainInfo.Pressure}\n" +
+                                      $"TimeZone: {weather.TimeZone}\n" +
+                                      $"Coords: lat: {weather.Coordinates.Latitude}, long: {weather.Coordinates.Longtitude}"
+                                      );
+                }else
+                {
+                    Console.WriteLine("WARNING: Please enter correct City name...");
+                }
+                Console.WriteLine("INFO: To exit enter 'yes'");
+                if (cityName.Contains("yes"))
+                {
+                    break;
+                }
+            }
         }
     }
 
@@ -54,7 +80,8 @@ namespace Weather
         public static string GetRegionFullName(string shortName)
         {
             return CultureInfo.GetCultures(CultureTypes.SpecificCultures).Select(x => new RegionInfo(x.LCID))
-                    .FirstOrDefault(region => region.Name.ToUpper() == shortName && shortName != null).EnglishName;
+                    .FirstOrDefault(region => region.Name.ToUpper() == shortName)
+                    ?.EnglishName;
         }
 
        [Serializable]

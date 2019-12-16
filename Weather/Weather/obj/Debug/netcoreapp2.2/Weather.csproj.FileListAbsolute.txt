@@ -9,3 +9,13 @@ C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.Asse
 C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.AssemblyInfo.cs
 C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.dll
 C:\Users\kv111\source\repos\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.pdb
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.deps.json
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.runtimeconfig.json
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.runtimeconfig.dev.json
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.dll
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\bin\Debug\netcoreapp2.2\Weather.pdb
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.AssemblyInfoInputs.cache
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.AssemblyInfo.cs
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.dll
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.pdb
+C:\Users\vipalamarchuk\Desktop\Weather_Api\connect-to-web-api-sample\Weather\Weather\obj\Debug\netcoreapp2.2\Weather.csprojAssemblyReference.cache

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kv111\\source\\repos\\Weather\\Weather\\Weather.csproj": {}
+    "C:\\Users\\vipalamarchuk\\Desktop\\Weather_Api\\connect-to-web-api-sample\\Weather\\Weather\\Weather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kv111\\source\\repos\\Weather\\Weather\\Weather.csproj": {
+    "C:\\Users\\vipalamarchuk\\Desktop\\Weather_Api\\connect-to-web-api-sample\\Weather\\Weather\\Weather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kv111\\source\\repos\\Weather\\Weather\\Weather.csproj",
+        "projectUniqueName": "C:\\Users\\vipalamarchuk\\Desktop\\Weather_Api\\connect-to-web-api-sample\\Weather\\Weather\\Weather.csproj",
         "projectName": "Weather",
-        "projectPath": "C:\\Users\\kv111\\source\\repos\\Weather\\Weather\\Weather.csproj",
-        "packagesPath": "C:\\Users\\kv111\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kv111\\source\\repos\\Weather\\Weather\\obj\\",
+        "projectPath": "C:\\Users\\vipalamarchuk\\Desktop\\Weather_Api\\connect-to-web-api-sample\\Weather\\Weather\\Weather.csproj",
+        "packagesPath": "C:\\Users\\vipalamarchuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vipalamarchuk\\Desktop\\Weather_Api\\connect-to-web-api-sample\\Weather\\Weather\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kv111\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vipalamarchuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,10 +57,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
